@@ -48,7 +48,7 @@ class Table extends React.Component {
     this.setState({ results: sortedEmployees })
   }
 
-
+//
   sortByLName = () => {
     const sortedEmployees = this.state.results.sort((a, b) => {
       if (b.name.last > a.name.last) {

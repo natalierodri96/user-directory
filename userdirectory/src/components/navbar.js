@@ -2,7 +2,7 @@ import React from "react";
 import "../styles/navbar.css"
 
 const SearchBar = (props) => {
-
+//search bar function
   return (
     <form>
     <div className="form-group search-widget">

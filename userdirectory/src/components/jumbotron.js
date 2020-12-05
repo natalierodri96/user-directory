@@ -7,7 +7,7 @@ function Jumbotron() {
     <div className="jumbotron jumbotron-fluid" id="jumboTron">
       <div className="container">
         <h1 className="display-4"><i className="user"></i> <b>Employee Directory</b></h1>
-        <p className="lead">Search by first or last name or select a column to sort.</p>
+        <p className="lead">Search by first or last name</p>
       </div>
     </div>
   </div>

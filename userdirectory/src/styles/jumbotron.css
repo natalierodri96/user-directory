@@ -1,6 +1,6 @@
 .jumbotron {
-    height: 300px;
-    color: rgb(46, 253, 5);
+    height: 400px;
+    color: rgb(45, 254, 6);
     background-color: rgb(0, 0, 0);
     display: flex;
     align-items: center;
@@ -9,6 +9,6 @@
     vertical-align: middle;
     flex-direction: column;
     justify-content: center;
-    text-shadow: rgb(255, 16, 155);
+    text-shadow: rgb(254, 15, 154);
     offset: 50%;
 }

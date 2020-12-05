@@ -1,7 +1,7 @@
 .jumbotron {
     height: 300px;
-    color: white;
-    background-color: limegreen;
+    color: rgb(46, 253, 5);
+    background-color: rgb(0, 0, 0);
     display: flex;
     align-items: center;
     align-content: center;
@@ -9,6 +9,6 @@
     vertical-align: middle;
     flex-direction: column;
     justify-content: center;
-    text-shadow: black;
+    text-shadow: rgb(255, 16, 155);
     offset: 50%;
 }

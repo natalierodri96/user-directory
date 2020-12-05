@@ -1,6 +1,6 @@
 import React from "react";
 import API from "../utils/api.js"
-import Search from "../components/searchBar"
+import Search from "../components/navbar"
 import "../styles/table.css"
 import DateFormat from 'dateformat';
 
